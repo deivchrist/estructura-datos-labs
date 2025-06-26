@@ -5,7 +5,6 @@ class GenericTreeNode:
 
 class GenericTree:
     """Generic tree implementation"""
-
     def __init__(self, root=None):
         self.root = root
 
